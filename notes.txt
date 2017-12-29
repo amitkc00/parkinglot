@@ -1,0 +1,14 @@
+There are two types of Parking Lot System Design.
+I want to approach them as MVP. First get the imp. feature working. Then worry about advance features.
+
+
+Type A : Newton Wellesley Parking Lot. Here you get a ticket when you enter and on exit you make a payment based on timing.
+
+    MVP : Parking Ticket Printing, Payment on Exit.
+    Advance Features : Add Weekly Pass.
+
+
+Type B : Automated Parking System. You drop-off your car and the Elevator mechanically puts it in space. On return, you put your card and make necessary payment. 
+
+    MVP : Take a car and put it in a spot.
+    Advance Features : Capture Car Plate ID to ensure lost ticket car retrieval with right ID.
